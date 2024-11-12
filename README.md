@@ -16,8 +16,7 @@
 
 | Avatar                                                                            | Name                    | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
-| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS               | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2024-11-12 16:52:55 |
-| ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT                    | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2024-11-12 16:52:55 |
+
 | ![](https://avatars.steamstatic.com/58e2db44e7aca399f481283a2016f9457eb1b3c1.jpg) | Einkey                  | [76561198851631063](https://steamcommunity.com/profiles/76561198851631063/) | ✅           | 2023-04-13 09:52:44 |          |                     |
 | ![](https://avatars.steamstatic.com/798f090d6833acb170364ffcb6556152aab25a8f.jpg) | マクロスMACROSS 82`99       | [76561198808042922](https://steamcommunity.com/profiles/76561198808042922/) | ✅           | 2024-03-16 04:37:24 |          |                     |
 | ![](https://avatars.steamstatic.com/48e64b344f839909b6b36828aec084545f4a0898.jpg) | 小鸭鸭                     | [76561198798344783](https://steamcommunity.com/profiles/76561198798344783/) | ✅           | 2024-03-22 01:39:03 |          |                     |
